@@ -44,12 +44,12 @@ Iter    = []
 Time    = []
 Sort    = []
 
-for i in range(len(lenData)):
-    Data.append(dataGen(lenData[i], maxVal[i]))
-    Otpt = radixSort(Data[i], maxVal[i])
-    Iter.append(Otpt[0])
-    Time.append(Otpt[1])
-    Sort.append(Otpt[2])
-    print(Time[i])
-    print(Iter[i])
-    print()
+# for i in range(len(lenData)):
+    # Data.append(dataGen(lenData[i], maxVal[i]))
+    # Otpt = radixSort(Data[i], maxVal[i])
+    # Iter.append(Otpt[0])
+    # Time.append(Otpt[1])
+    # Sort.append(Otpt[2])
+    # print(Time[i])
+    # print(Iter[i])
+    # print()

@@ -12,3 +12,8 @@ The best part about radix sort is that the worst case has a linear order, depend
 ## [Random String Generator](../master/randomStringGen.py)
 
 This piece of code can be used to generate `numStrings` number of random strings with random lengths not exceeding `maxLen`. This is inspired from a finger exercise in MITx 6.00.2.
+
+***
+## [Sum of Random Variables](../master/randomSumPDF.py)
+
+This piece of code adds `randomSumNum` number of uniform distributions (from `random.random()`). The discreteness of the random variable can be determined by varying `listSize`.
