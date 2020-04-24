@@ -7,3 +7,8 @@ This repository contains random pieces of code that I have written inspired from
 
 This is a small piece of Python code to sort numbers using radix sort.  
 The best part about radix sort is that the worst case has a linear order, dependent on the product of the number of object and the number of digits of the largest object
+
+***
+## [Random String Generator](../master/randomStringGen.py)
+
+This piece of code can be used to generate `numStrings` number of random strings with random lengths not exceeding `maxLen`. This is inspired from a finger exercise in MITx 6.00.2.
